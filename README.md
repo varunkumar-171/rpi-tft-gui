@@ -4,6 +4,8 @@ A GUI on the TFT display for a headless raspberry pi
 This project is a fork of (https://github.com/goodtft/LCD-show.git). I've made some changes to the particular MHS35-show script to ensure 
 only the necessary changes take place. The original script messes with a number of system files. 
 
+This guide however works perfectly only with the ** Raspbian Bullseye ** version. It does not work out of the box for the Raspbian bookworm version.
+
 # Changes Required
 
 The display SKU I use is MHS35. The script included unnecessary configurations to the uart, i2c and a hdmi mode. After these changes the resolution should
