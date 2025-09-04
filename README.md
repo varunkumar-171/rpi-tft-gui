@@ -20,4 +20,4 @@ After installation run raspi-config to enable automatic login to the desktop.
 
 Making all these changes and running the script should be enough to get the GUI on the display up and running !
 
-
+![Raspbian home screen on the rpi tft display](https://github.com/varunkumar-171/rpi-tft-gui/blob/main/disp.jpg)
