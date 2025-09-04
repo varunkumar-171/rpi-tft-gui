@@ -17,4 +17,7 @@ if [ "$_IP" ]; then
   printf "My IP address is %s\n" "$_IP"
 fi
 
+sleep 7
+fbcp &
+
 exit 0

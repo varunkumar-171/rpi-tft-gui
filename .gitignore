@@ -39,3 +39,7 @@
 
 # debug information files
 *.dwo
+
+rpi-fbcp/
+.system_backup/
+error_output.txt
